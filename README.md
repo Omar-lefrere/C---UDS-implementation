@@ -1,4 +1,4 @@
-# UDS Protocol manipulation by using c++
+# UDS Protocol implementation by using c++
 
 The UDS protocol is performed in a client-server relationship - with the client being a tester-tool and the server being a vehicle ECU.
 For example, you can connect a CAN bus interface to the OBD2 connector of a car and send UDS requests into the vehicle. the targeted ECU will respond accordingly.
